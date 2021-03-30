@@ -16,3 +16,8 @@ a:link{
     color: yellow;}
   a:visited{color: green}
   
+image{ 
+    height: fit-content;
+    width: auto;
+
+}
