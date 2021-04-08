@@ -14,7 +14,7 @@ body{font-family: 'Slabo 27px', serif;background:image-set(repeating);}
 }
 .cont{
   position:absolute;
-  top:33%;left:20%;
+  top:50%;left:20%;
   background:rgba(145, 145, 145, 0.486);
   font-size:27px;
   text-align:center;
