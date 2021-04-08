@@ -1,6 +1,7 @@
 *{margin:0;padding:0;}
 body{font-family: 'Slabo 27px', serif;}
-.bg{position:absolute;z-index:1;}
+.bg{position:absolute;
+   top: 45%; left:0}
 .bg img{
   display:block;
   width:100%; height:auto;
@@ -14,7 +15,7 @@ body{font-family: 'Slabo 27px', serif;}
 }
 .cont{
   position:absolute;
-  z-index:2;
+  left:80%;left:20%;
   background:rgba(197, 197, 197, 0.486);
   font-size:27px;
   color:#fff;
