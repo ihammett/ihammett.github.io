@@ -1,5 +1,5 @@
 *{margin:0;padding:0;}
-body{font-family: 'Slabo 27px', serif;background:#000;}
+body{font-family: 'Slabo 27px', serif;}
 .bg{position:absolute;z-index:1;}
 .bg img{
   display:block;
