@@ -1,5 +1,5 @@
-body{background-color: orange;}
-
+body{background-color: orange;
+}
 h1{
     color: yellow;
     font-family: 'Times New Roman', Times, serif;
@@ -17,7 +17,6 @@ a:link{
   a:visited{color: green}
   
 image{ 
-    height: fit-content;
-    width: auto;
-
+    height: 1080px;
+    width: 720px;
 }
